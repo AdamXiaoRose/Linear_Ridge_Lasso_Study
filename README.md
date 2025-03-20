@@ -30,27 +30,6 @@ The project explores how different regularization techniques impact model perfor
 - **R² Score (Coefficient of Determination)**
 - **Cross-Validation for Hyperparameter Tuning**
 
-```
-
-## 🚀 How to Run
-### **1️⃣ Install Required Packages**
-Make sure you have the required Python packages installed:
-```bash
-pip install numpy pandas matplotlib scikit-learn seaborn
-```
-
-### **2️⃣ Run Jupyter Notebook**
-Open and execute the notebook:
-```bash
-jupyter notebook regression_analysis.ipynb
-```
-
-### **3️⃣ Run Python Scripts**
-To run Ridge vs. Lasso comparison:
-```bash
-python ridge_lasso_comparison.py
-```
-
 ---
 
 ## 📈 Key Findings
